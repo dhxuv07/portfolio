@@ -54,7 +54,7 @@
             background: white;
             padding: 25px;
             border-radius: 12px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 10px rgba(142, 59, 59, 0.1);
             margin: 20px 0;
         }
         .skills {
